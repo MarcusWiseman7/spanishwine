@@ -1,6 +1,7 @@
 {
-  "name": "spanishwine",
+  "name": "spanishwinery",
   "version": "0.0.1",
+  "author": "Marcus Wiseman <md.wiseman@hotmail.com>",
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
